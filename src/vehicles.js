@@ -9,7 +9,7 @@ export default [{
     "miles": 10615,
     "fuel": "Gas",
     "city": "Colca",
-    "isNew": false
+    "new": false
   }, {
     "_id": 2,
     "imgUrl": "./featured-img-2.jpg",
@@ -21,7 +21,7 @@ export default [{
     "miles": 22287,
     "fuel": "Gas",
     "city": "Kristianstad",
-    "isNew": false
+    "new": false
   }, {
     "_id": 3,
     "imgUrl": "./featured-img-1.jpg",
@@ -33,7 +33,7 @@ export default [{
     "miles": 25021,
     "fuel": "Gas",
     "city": "Lom Kao",
-    "isNew": false
+    "new": false
   }, {
     "_id": 4,
     "imgUrl": "./featured-img-3.jpg",
@@ -45,7 +45,7 @@ export default [{
     "miles": 36836,
     "fuel": "57.220.204.218",
     "city": "Jamalteca",
-    "isNew": false
+    "new": false
   }, {
     "_id": 5,
     "imgUrl": "./featured-img-2.jpg",
@@ -57,7 +57,7 @@ export default [{
     "miles": 13336,
     "fuel": "120.59.89.7",
     "city": "Zhaobei",
-    "isNew": false
+    "new": false
   }, {
     "_id": 6,
     "imgUrl": "./featured-img-1.jpg",
@@ -69,7 +69,7 @@ export default [{
     "miles": 31749,
     "fuel": "50.132.29.112",
     "city": "Trollhättan",
-    "isNew": false
+    "new": false
   }, {
     "_id": 7,
     "imgUrl": "./featured-img-2.jpg",
@@ -81,7 +81,7 @@ export default [{
     "miles": 85500,
     "fuel": "Gas",
     "city": "Baalbek",
-    "isNew": false
+    "new": false
   }, {
     "_id": 8,
     "imgUrl": "./featured-img-1.jpg",
@@ -93,7 +93,7 @@ export default [{
     "miles": 69779,
     "fuel": "Gas",
     "city": "Al Maḩallah al Kubrá",
-    "isNew": true
+    "new": true
   }, {
     "_id": 9,
     "imgUrl": "./featured-img-2.jpg",
@@ -105,7 +105,7 @@ export default [{
     "miles": 25669,
     "fuel": "179.48.155.184",
     "city": "Plettenberg Bay",
-    "isNew": true
+    "new": true
   }, {
     "_id": 10,
     "imgUrl": "./featured-img-1.jpg",
@@ -117,7 +117,7 @@ export default [{
     "miles": 44041,
     "fuel": "Gas",
     "city": "Datarsitu",
-    "isNew": false
+    "new": false
   }, {
     "_id": 11,
     "imgUrl": "./featured-img-3.jpg",
@@ -129,7 +129,7 @@ export default [{
     "miles": 48672,
     "fuel": "Gas",
     "city": "Kumla",
-    "isNew": true
+    "new": true
   }, {
     "_id": 12,
     "imgUrl": "./featured-img-2.jpg",
@@ -141,7 +141,7 @@ export default [{
     "miles": 15190,
     "fuel": "231.151.12.221",
     "city": "Xiaochi",
-    "isNew": true
+    "new": true
   }, {
     "_id": 13,
     "imgUrl": "./featured-img-1.jpg",
@@ -153,7 +153,7 @@ export default [{
     "miles": 15060,
     "fuel": "Gas",
     "city": "Potlot",
-    "isNew": true
+    "new": true
   }, {
     "_id": 14,
     "imgUrl": "./featured-img-1.jpg",
@@ -165,7 +165,7 @@ export default [{
     "miles": 58241,
     "fuel": "Gas",
     "city": "Rivadavia",
-    "isNew": true
+    "new": true
   }, {
     "_id": 15,
     "imgUrl": "./featured-img-3.jpg",
@@ -177,7 +177,7 @@ export default [{
     "miles": 29461,
     "fuel": "Gas",
     "city": "Susiec",
-    "isNew": true
+    "new": true
   }, {
     "_id": 16,
     "imgUrl": "./featured-img-2.jpg",
@@ -189,7 +189,7 @@ export default [{
     "miles": 4836,
     "fuel": "Gas",
     "city": "Hacı Zeynalabdin",
-    "isNew": true
+    "new": true
   }, {
     "_id": 17,
     "imgUrl": "./featured-img-1.jpg",
@@ -201,7 +201,7 @@ export default [{
     "miles": 20180,
     "fuel": "Gas",
     "city": "Las Americas",
-    "isNew": true
+    "new": true
   }, {
     "_id": 18,
     "imgUrl": "./featured-img-3.jpg",
@@ -213,7 +213,7 @@ export default [{
     "miles": 97073,
     "fuel": "Diesel",
     "city": "Dorūd",
-    "isNew": true
+    "new": true
   }, {
     "_id": 19,
     "imgUrl": "./featured-img-2.jpg",
@@ -225,7 +225,7 @@ export default [{
     "miles": 99863,
     "fuel": "Diesel",
     "city": "Mugi",
-    "isNew": true
+    "new": true
   }, {
     "_id": 20,
     "imgUrl": "./featured-img-1.jpg",
@@ -237,6 +237,6 @@ export default [{
     "miles": 97118,
     "fuel": "Diesel",
     "city": "Santa Rosa",
-    "isNew": true
+    "new": true
   }];
   
