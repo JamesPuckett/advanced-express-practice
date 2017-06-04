@@ -18,6 +18,7 @@ const VehicleController = {
         return response.json(storedVehicle);
       })
       .catch((err) => {
+        console.log("vehicle error:", err);
         return next(err);
       });
   },
